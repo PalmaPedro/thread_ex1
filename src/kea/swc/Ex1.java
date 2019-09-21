@@ -1,4 +1,4 @@
-package kea.swc.thread;
+package kea.swc;
 
 /*
 Exercise 1:
